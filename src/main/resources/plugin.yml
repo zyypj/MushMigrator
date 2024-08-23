@@ -1,0 +1,4 @@
+name: MushMigrator
+version: '${project.version}'
+main: br.com.pulse.mushmigrator.Main
+depend: [BedWars2023]
